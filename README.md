@@ -29,14 +29,6 @@ The goal of this project is to analyze customer churn behavior in a retail bank 
 
 ---
 
-## 📁 Project Structure
-├── churn_analysis.ipynb # Main notebook with EDA + Modeling
-├── README.md # Project summary and documentation
-└── (Optional) requirements.txt # List of dependencies (if needed)
-
-
----
-
 ## ✅ Summary of Findings
 
 - **Age**, **IsActiveMember**, and **Number of Products** are key drivers of churn.
